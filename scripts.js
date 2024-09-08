@@ -1,8 +1,15 @@
 // Sample Products Data
 const products = [
-    { id: 1, name: 'Product 1', price: '$10', image: 'images/products/Allah + Muhammad.jpeg' },
-    { id: 2, name: 'Product 2', price: '$15', image: 'images/products/product2.jpg' },
-    { id: 3, name: 'Product 3', price: '$20', image: 'images/products/product3.jpg' },
+    { id: 1, name: 'Islamic Calligraphy - Allah & Muhammad', price: 'Tk. 899 /-', image: 'images/products/1-Allah + Muhammad.jpg' },
+    { id: 2, name: 'Birt Date Frame', price: 'Tk. 1150 /-', image: 'images/products/2-Birth Date.jpg' },
+    { id: 3, name: 'Birthday Wishing Gift', price: 'Tk. 1150 /-', image: 'images/products/3-Birthday Gift.jpg' },
+    { id: 4, name: 'Owl Night Lamp', price: 'Tk. 899 /-', image: 'images/products/4-Owl (2).jpg' },
+    { id: 5, name: 'Islamic Calligraphy - Quran Book', price: 'Tk. 899 /-', image: 'images/products/5-Quran.jpg' },
+    { id: 6, name: 'Spotify Color Frame', price: 'Tk. 1150 /-', image: 'images/products/6-Spotify Color.jpg' },
+    { id: 7, name: 'Gift For Special Person', price: 'Tk. 1150 /-', image: 'images/products/7-Two Love.jpg' },
+    { id: 8, name: 'PUBG', price: 'Tk. 899 /-', image: 'images/products/8-PUBG.jpg' },
+    { id: 9, name: 'Spotify Engraved Frame', price: 'Tk. 1150 /-', image: 'images/products/9-Spotify Engraved.jpg' },
+    { id: 10, name: 'Blank Sheet of any Shape with 2 Pen', price: 'Tk. 899 /-', image: 'images/products/10-Blank.jpg' },
     // Add more products as needed
 ];
 
